@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="jenkin_Test.MavenJenkinTest"/>
+       <class name="jenkin_Test.HelloWorld"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
