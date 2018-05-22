@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15661" started-at="2018-05-22T04:08:24Z" finished-at="2018-05-22T04:08:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15661" started-at="2018-05-22T04:08:24Z" finished-at="2018-05-22T04:08:40Z">
+      <class name="jenkin_Test.MavenJenkinTest">
+        <test-method status="PASS" signature="testA()[pri:0, instance:jenkin_Test.MavenJenkinTest@1554909b]" name="testA" duration-ms="3626" started-at="2018-05-22T04:08:36Z" finished-at="2018-05-22T04:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- jenkin_Test.MavenJenkinTest -->
+      <class name="jenkin_Test.HelloWorld">
+        <test-method status="PASS" signature="test()[pri:0, instance:jenkin_Test.HelloWorld@22f71333]" name="test" duration-ms="0" started-at="2018-05-22T04:08:40Z" finished-at="2018-05-22T04:08:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- jenkin_Test.HelloWorld -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

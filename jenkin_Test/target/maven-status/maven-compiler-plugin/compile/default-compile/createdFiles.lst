@@ -1,0 +1,5 @@
+generic\BaseTest.class
+generic\BasePage.class
+jenkin_Test\HelloWorld.class
+jenkin_Test\MavenJenkinTest.class
+generic\AutoConst.class
